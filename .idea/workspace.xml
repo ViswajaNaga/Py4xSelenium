@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e546315-0217-411a-b4ed-0fdf38043128" name="Changes" comment="sampleeej">
-      <change afterPath="$PROJECT_DIR$/src/dt_17102024/Lab04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dt_17102024/Lab05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dt_17102024/__init__.py" afterDir="false" />
+    <list default="true" id="9e546315-0217-411a-b4ed-0fdf38043128" name="Changes" comment="sample">
+      <change afterPath="$PROJECT_DIR$/src/dt_17102024/Lab06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dt_17102024/Task_Lab07.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dt_15102024/Lab03_Task.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/dt_15102024/Lab03_Task.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +24,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/dt_17102024/Lab05.py" root0="SKIP_INSPECTION" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -37,22 +38,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Python tests.Python tests for Lab03_Task.test_katalon_demo.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for Lab04.test_chrome_options.executor&quot;: &quot;Run&quot;,
-    &quot;Python.samplefile.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python tests.Python tests for Lab03_Task.test_katalon_demo.executor": "Run",
+    "Python tests.Python tests for Lab04.test_chrome_options.executor": "Run",
+    "Python tests.Python tests for Lab06.test_chrome_current_url_verification.executor": "Run",
+    "Python tests.Python tests for Lab06.test_chrome_katalon_make_appointment.executor": "Run",
+    "Python tests.Python tests for Task_Lab07.test_chrome_current_url_verification.executor": "Run",
+    "Python.samplefile.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "configurable.group.appearance"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;ChangesTree.GroupingKeys&quot;: [
-      &quot;directory&quot;
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory"
     ]
   }
-}</component>
-  <component name="RunManager" selected="Python tests.Python tests for Lab03_Task.test_katalon_demo">
+}]]></component>
+  <component name="RunManager" selected="Python tests.Python tests for Task_Lab07.test_katalon_login_verification">
     <configuration name="Python tests for Lab03_Task.test_katalon_demo" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Py4xSelenium" />
       <option name="ENV_FILES" value="" />
@@ -68,7 +73,7 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for Lab04.test_chrome_options" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for Lab06.test_chrome_current_url_verification" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Py4xSelenium" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -79,14 +84,62 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;Lab04.test_chrome_options&quot;" />
+      <option name="_new_target" value="&quot;Lab06.test_chrome_current_url_verification&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for Lab06.test_chrome_katalon_make_appointment" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Py4xSelenium" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/dt_17102024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Lab06.test_chrome_katalon_make_appointment&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for Task_Lab07.test_chrome_current_url_verification" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Py4xSelenium" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/dt_17102024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Task_Lab07.test_chrome_current_url_verification&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for Task_Lab07.test_katalon_login_verification" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Py4xSelenium" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/dt_17102024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Task_Lab07.test_katalon_login_verification&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for Task_Lab07.test_katalon_login_verification" />
+        <item itemvalue="Python tests.Python tests for Task_Lab07.test_chrome_current_url_verification" />
+        <item itemvalue="Python tests.Python tests for Lab06.test_chrome_katalon_make_appointment" />
+        <item itemvalue="Python tests.Python tests for Lab06.test_chrome_current_url_verification" />
         <item itemvalue="Python tests.Python tests for Lab03_Task.test_katalon_demo" />
-        <item itemvalue="Python tests.Python tests for Lab04.test_chrome_options" />
       </list>
     </recent_temporary>
   </component>
@@ -194,16 +247,32 @@
       <option name="project" value="LOCAL" />
       <updated>1730123476134</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="sample">
+      <option name="closed" value="true" />
+      <created>1730178508869</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1730178508869</updated>
+    </task>
+    <task id="LOCAL-00013" summary="sample">
+      <option name="closed" value="true" />
+      <created>1730178527449</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1730178527449</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="sample" />
     <MESSAGE value="lab01" />
     <MESSAGE value="lab02" />
     <MESSAGE value="sampleee" />
     <MESSAGE value="sampleeej" />
-    <option name="LAST_COMMIT_MESSAGE" value="sampleeej" />
+    <MESSAGE value="sample" />
+    <option name="LAST_COMMIT_MESSAGE" value="sample" />
   </component>
 </project>
