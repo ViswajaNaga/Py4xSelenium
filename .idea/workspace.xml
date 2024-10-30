@@ -4,10 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e546315-0217-411a-b4ed-0fdf38043128" name="Changes" comment="sample">
-      <change afterPath="$PROJECT_DIR$/src/dt_17102024/Lab06.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dt_17102024/Task_Lab07.py" afterDir="false" />
+    <list default="true" id="9e546315-0217-411a-b4ed-0fdf38043128" name="Changes" comment="17th oct">
+      <change afterPath="$PROJECT_DIR$/src/dt_19102024/Lab08.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dt_19102024/Lab09.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dt_19102024/Lab10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dt_19102024/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dt_17102024/Task_Lab07.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/dt_17102024/Task_Lab07.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +25,12 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
@@ -45,7 +54,13 @@
     "Python tests.Python tests for Lab04.test_chrome_options.executor": "Run",
     "Python tests.Python tests for Lab06.test_chrome_current_url_verification.executor": "Run",
     "Python tests.Python tests for Lab06.test_chrome_katalon_make_appointment.executor": "Run",
+    "Python tests.Python tests for Lab08.test_katalon_login_verification.executor": "Run",
+    "Python tests.Python tests for Lab09.test_katalon_login_verification_project2.executor": "Run",
+    "Python tests.Python tests for Lab09.test_positive_vwo_Start_Free_Trail_project3.executor": "Run",
     "Python tests.Python tests for Task_Lab07.test_chrome_current_url_verification.executor": "Run",
+    "Python tests.Python tests for Task_Lab07.test_katalon_login_verification.executor": "Run",
+    "Python tests.Python tests in Lab09.py.executor": "Run",
+    "Python tests.Python tests in Lab10.py.executor": "Run",
     "Python.samplefile.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -57,49 +72,49 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="Python tests.Python tests for Task_Lab07.test_katalon_login_verification">
-    <configuration name="Python tests for Lab03_Task.test_katalon_demo" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+  <component name="RunManager">
+    <configuration name="Python tests for Lab08.test_katalon_login_verification" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Py4xSelenium" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/dt_15102024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/dt_19102024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;Lab03_Task.test_katalon_demo&quot;" />
+      <option name="_new_target" value="&quot;Lab08.test_katalon_login_verification&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for Lab06.test_chrome_current_url_verification" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for Lab09.test_katalon_login_verification_project2" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Py4xSelenium" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/dt_17102024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/dt_19102024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;Lab06.test_chrome_current_url_verification&quot;" />
+      <option name="_new_target" value="&quot;Lab09.test_katalon_login_verification_project2&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for Lab06.test_chrome_katalon_make_appointment" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for Lab09.test_positive_vwo_Start_Free_Trail_project3" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Py4xSelenium" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/dt_17102024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/dt_19102024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;Lab06.test_chrome_katalon_make_appointment&quot;" />
+      <option name="_new_target" value="&quot;Lab09.test_positive_vwo_Start_Free_Trail_project3&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -135,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for Lab09.test_positive_vwo_Start_Free_Trail_project3" />
+        <item itemvalue="Python tests.Python tests for Lab09.test_katalon_login_verification_project2" />
+        <item itemvalue="Python tests.Python tests for Lab08.test_katalon_login_verification" />
         <item itemvalue="Python tests.Python tests for Task_Lab07.test_katalon_login_verification" />
         <item itemvalue="Python tests.Python tests for Task_Lab07.test_chrome_current_url_verification" />
-        <item itemvalue="Python tests.Python tests for Lab06.test_chrome_katalon_make_appointment" />
-        <item itemvalue="Python tests.Python tests for Lab06.test_chrome_current_url_verification" />
-        <item itemvalue="Python tests.Python tests for Lab03_Task.test_katalon_demo" />
       </list>
     </recent_temporary>
   </component>
@@ -263,7 +278,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730178527449</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="17th oct">
+      <option name="closed" value="true" />
+      <created>1730202348921</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1730202348921</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -273,6 +296,7 @@
     <MESSAGE value="sampleee" />
     <MESSAGE value="sampleeej" />
     <MESSAGE value="sample" />
-    <option name="LAST_COMMIT_MESSAGE" value="sample" />
+    <MESSAGE value="17th oct" />
+    <option name="LAST_COMMIT_MESSAGE" value="17th oct" />
   </component>
 </project>

@@ -2,7 +2,7 @@ from selenium import webdriver
 import allure
 import time
 from selenium.webdriver.common.by import By
-def test_katalon_login_verification():
+def test_katalon_login_verification_project1():
     driver=webdriver.Chrome()
     driver.get("https://katalon-demo-cura.herokuapp.com/")
 
