@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e546315-0217-411a-b4ed-0fdf38043128" name="Changes" comment="19th oct">
+    <list default="true" id="9e546315-0217-411a-b4ed-0fdf38043128" name="Changes" comment="19th oct task">
+      <change afterPath="$PROJECT_DIR$/src/dt_22102024/Lab12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dt_22102024/Task_Lab13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dt_22102024/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dt_19102024/Lab11.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/dt_19102024/Lab11.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,18 +31,18 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "ViswajaNaga"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ViswajaNaga&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/ViswajaNaga/Py4xSelenium.git",
-    "accountId": "e2fe5a0f-c84a-4022-b25f-e60bc6d06901"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ViswajaNaga/Py4xSelenium.git&quot;,
+    &quot;accountId&quot;: &quot;e2fe5a0f-c84a-4022-b25f-e60bc6d06901&quot;
   }
-}]]></component>
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/dt_17102024/Lab05.py" root0="SKIP_INSPECTION" />
   </component>
@@ -67,10 +69,13 @@
     "Python tests.Python tests for Lab09.test_positive_vwo_Start_Free_Trail_project3.executor": "Run",
     "Python tests.Python tests for Lab11.test_to_find_buttons_and_links_in_page.executor": "Run",
     "Python tests.Python tests for Lab11.test_to_login_awesomeqa.executor": "Run",
+    "Python tests.Python tests for Lab13.test_ebay_minimac_details.executor": "Run",
     "Python tests.Python tests for Task_Lab07.test_chrome_current_url_verification.executor": "Run",
     "Python tests.Python tests for Task_Lab07.test_katalon_login_verification.executor": "Run",
     "Python tests.Python tests in Lab09.py.executor": "Run",
     "Python tests.Python tests in Lab10.py.executor": "Run",
+    "Python tests.Python tests in Lab12.py.executor": "Run",
+    "Python tests.Python tests in Lab13.py.executor": "Run",
     "Python.samplefile.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -82,22 +87,7 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="Python tests.Python tests for Lab11.test_to_login_awesomeqa">
-    <configuration name="Python tests for Lab08.test_katalon_login_verification" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="Py4xSelenium" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/dt_19102024" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;Lab08.test_katalon_login_verification&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager">
     <configuration name="Python tests for Lab09.test_katalon_login_verification_project2" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Py4xSelenium" />
       <option name="ENV_FILES" value="" />
@@ -158,13 +148,28 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests for src.dt_22102024.Task_Lab13.test_ebay_minimac_details" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Py4xSelenium" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/dt_22102024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;src.dt_22102024.Task_Lab13.test_ebay_minimac_details&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for src.dt_22102024.Task_Lab13.test_ebay_minimac_details" />
         <item itemvalue="Python tests.Python tests for Lab11.test_to_login_awesomeqa" />
         <item itemvalue="Python tests.Python tests for Lab11.test_to_find_buttons_and_links_in_page" />
         <item itemvalue="Python tests.Python tests for Lab09.test_positive_vwo_Start_Free_Trail_project3" />
         <item itemvalue="Python tests.Python tests for Lab09.test_katalon_login_verification_project2" />
-        <item itemvalue="Python tests.Python tests for Lab08.test_katalon_login_verification" />
       </list>
     </recent_temporary>
   </component>
@@ -312,7 +317,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730540608567</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="19th oct task">
+      <option name="closed" value="true" />
+      <created>1730545429612</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1730545429612</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -324,6 +337,7 @@
     <MESSAGE value="sample" />
     <MESSAGE value="17th oct" />
     <MESSAGE value="19th oct" />
-    <option name="LAST_COMMIT_MESSAGE" value="19th oct" />
+    <MESSAGE value="19th oct task" />
+    <option name="LAST_COMMIT_MESSAGE" value="19th oct task" />
   </component>
 </project>
