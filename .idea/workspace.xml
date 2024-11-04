@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e546315-0217-411a-b4ed-0fdf38043128" name="Changes" comment="19th oct task">
-      <change afterPath="$PROJECT_DIR$/src/dt_22102024/Lab12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dt_22102024/Task_Lab13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dt_22102024/__init__.py" afterDir="false" />
+    <list default="true" id="9e546315-0217-411a-b4ed-0fdf38043128" name="Changes" comment="22th oct">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,37 +54,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Python tests.Python tests for Lab03_Task.test_katalon_demo.executor": "Run",
-    "Python tests.Python tests for Lab04.test_chrome_options.executor": "Run",
-    "Python tests.Python tests for Lab06.test_chrome_current_url_verification.executor": "Run",
-    "Python tests.Python tests for Lab06.test_chrome_katalon_make_appointment.executor": "Run",
-    "Python tests.Python tests for Lab08.test_katalon_login_verification.executor": "Run",
-    "Python tests.Python tests for Lab09.test_katalon_login_verification_project2.executor": "Run",
-    "Python tests.Python tests for Lab09.test_positive_vwo_Start_Free_Trail_project3.executor": "Run",
-    "Python tests.Python tests for Lab11.test_to_find_buttons_and_links_in_page.executor": "Run",
-    "Python tests.Python tests for Lab11.test_to_login_awesomeqa.executor": "Run",
-    "Python tests.Python tests for Lab13.test_ebay_minimac_details.executor": "Run",
-    "Python tests.Python tests for Task_Lab07.test_chrome_current_url_verification.executor": "Run",
-    "Python tests.Python tests for Task_Lab07.test_katalon_login_verification.executor": "Run",
-    "Python tests.Python tests in Lab09.py.executor": "Run",
-    "Python tests.Python tests in Lab10.py.executor": "Run",
-    "Python tests.Python tests in Lab12.py.executor": "Run",
-    "Python tests.Python tests in Lab13.py.executor": "Run",
-    "Python.samplefile.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "configurable.group.appearance"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python tests.Python tests for Lab03_Task.test_katalon_demo.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for Lab04.test_chrome_options.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for Lab06.test_chrome_current_url_verification.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for Lab06.test_chrome_katalon_make_appointment.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for Lab08.test_katalon_login_verification.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for Lab09.test_katalon_login_verification_project2.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for Lab09.test_positive_vwo_Start_Free_Trail_project3.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for Lab11.test_to_find_buttons_and_links_in_page.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for Lab11.test_to_login_awesomeqa.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for Lab13.test_ebay_minimac_details.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for Task_Lab07.test_chrome_current_url_verification.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for Task_Lab07.test_katalon_login_verification.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in Lab09.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in Lab10.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in Lab12.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in Lab13.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.samplefile.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;
   },
-  "keyToStringList": {
-    "ChangesTree.GroupingKeys": [
-      "directory"
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;
     ]
   }
-}]]></component>
-  <component name="RunManager">
+}</component>
+  <component name="RunManager" selected="Python tests.Python tests for Lab09.test_katalon_login_verification_project2">
     <configuration name="Python tests for Lab09.test_katalon_login_verification_project2" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Py4xSelenium" />
       <option name="ENV_FILES" value="" />
@@ -118,7 +115,7 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for Lab11.test_to_find_buttons_and_links_in_page" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for src.dt_19102024.Task_Lab11" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Py4xSelenium" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -129,11 +126,11 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;Lab11.test_to_find_buttons_and_links_in_page&quot;" />
+      <option name="_new_target" value="&quot;src.dt_19102024.Task_Lab11&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for Lab11.test_to_login_awesomeqa" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for src.dt_19102024.Task_Lab11.test_to_login_awesomeqa" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Py4xSelenium" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -144,7 +141,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;Lab11.test_to_login_awesomeqa&quot;" />
+      <option name="_new_target" value="&quot;src.dt_19102024.Task_Lab11.test_to_login_awesomeqa&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -166,8 +163,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python tests.Python tests for src.dt_22102024.Task_Lab13.test_ebay_minimac_details" />
-        <item itemvalue="Python tests.Python tests for Lab11.test_to_login_awesomeqa" />
-        <item itemvalue="Python tests.Python tests for Lab11.test_to_find_buttons_and_links_in_page" />
+        <item itemvalue="Python tests.Python tests for src.dt_19102024.Task_Lab11.test_to_login_awesomeqa" />
+        <item itemvalue="Python tests.Python tests for src.dt_19102024.Task_Lab11" />
         <item itemvalue="Python tests.Python tests for Lab09.test_positive_vwo_Start_Free_Trail_project3" />
         <item itemvalue="Python tests.Python tests for Lab09.test_katalon_login_verification_project2" />
       </list>
@@ -325,7 +322,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730545429612</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="22th oct">
+      <option name="closed" value="true" />
+      <created>1730570501485</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1730570501485</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -338,6 +343,7 @@
     <MESSAGE value="17th oct" />
     <MESSAGE value="19th oct" />
     <MESSAGE value="19th oct task" />
-    <option name="LAST_COMMIT_MESSAGE" value="19th oct task" />
+    <MESSAGE value="22th oct" />
+    <option name="LAST_COMMIT_MESSAGE" value="22th oct" />
   </component>
 </project>
