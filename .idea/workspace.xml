@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9e546315-0217-411a-b4ed-0fdf38043128" name="Changes" comment="22th oct">
+      <change afterPath="$PROJECT_DIR$/src/dt_22102024/Lab14_explicitwait.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dt_22102024/Lab15_fluentwait.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dt_22102024/task13_new.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dt_22102024/task13_others.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dt_22102024/Task_Lab13.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/dt_22102024/Task_Lab13.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,15 +72,23 @@
     &quot;Python tests.Python tests for Lab11.test_to_find_buttons_and_links_in_page.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests for Lab11.test_to_login_awesomeqa.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests for Lab13.test_ebay_minimac_details.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for Lab14.test_negative_vwo_login_explicit_wait.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for Lab14.test_negative_vwo_login_explicitwait.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for Lab15_fluentwait.test_negative_vwo_login_fluent_wait.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests for Task_Lab07.test_chrome_current_url_verification.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests for Task_Lab07.test_katalon_login_verification.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for Task_Lab13.test_ebay_minimac_details.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests in Lab09.py.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests in Lab10.py.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests in Lab12.py.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests in Lab13.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in Task_Lab13.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in task13_new.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in task13_others.py.executor&quot;: &quot;Run&quot;,
     &quot;Python.samplefile.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Balakrishna/PycharmProjects/PyATB4xLearning&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;
   },
   &quot;keyToStringList&quot;: {
@@ -84,64 +97,69 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="Python tests.Python tests for Lab09.test_katalon_login_verification_project2">
-    <configuration name="Python tests for Lab09.test_katalon_login_verification_project2" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Balakrishna\PycharmProjects\Py4xSelenium\src\dt_22102024" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Python tests for Lab15_fluentwait.test_negative_vwo_login_fluent_wait" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Py4xSelenium" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/dt_19102024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/dt_22102024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;Lab09.test_katalon_login_verification_project2&quot;" />
+      <option name="_new_target" value="&quot;Lab15_fluentwait.test_negative_vwo_login_fluent_wait&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for Lab09.test_positive_vwo_Start_Free_Trail_project3" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for Task_Lab13.test_ebay_minimac_details" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Py4xSelenium" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/dt_19102024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/dt_22102024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;Lab09.test_positive_vwo_Start_Free_Trail_project3&quot;" />
+      <option name="_new_target" value="&quot;Task_Lab13.test_ebay_minimac_details&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for src.dt_19102024.Task_Lab11" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for src.dt_22102024.Lab14_explicitwait" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Py4xSelenium" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/dt_19102024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/dt_22102024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;src.dt_19102024.Task_Lab11&quot;" />
+      <option name="_new_target" value="&quot;src.dt_22102024.Lab14_explicitwait&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for src.dt_19102024.Task_Lab11.test_to_login_awesomeqa" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for src.dt_22102024.Lab14_explicitwait.test_negative_vwo_login_explicit_wait" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Py4xSelenium" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/dt_19102024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/dt_22102024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;src.dt_19102024.Task_Lab11.test_to_login_awesomeqa&quot;" />
+      <option name="_new_target" value="&quot;src.dt_22102024.Lab14_explicitwait.test_negative_vwo_login_explicit_wait&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -162,11 +180,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for Lab15_fluentwait.test_negative_vwo_login_fluent_wait" />
+        <item itemvalue="Python tests.Python tests for Task_Lab13.test_ebay_minimac_details" />
+        <item itemvalue="Python tests.Python tests for src.dt_22102024.Lab14_explicitwait.test_negative_vwo_login_explicit_wait" />
+        <item itemvalue="Python tests.Python tests for src.dt_22102024.Lab14_explicitwait" />
         <item itemvalue="Python tests.Python tests for src.dt_22102024.Task_Lab13.test_ebay_minimac_details" />
-        <item itemvalue="Python tests.Python tests for src.dt_19102024.Task_Lab11.test_to_login_awesomeqa" />
-        <item itemvalue="Python tests.Python tests for src.dt_19102024.Task_Lab11" />
-        <item itemvalue="Python tests.Python tests for Lab09.test_positive_vwo_Start_Free_Trail_project3" />
-        <item itemvalue="Python tests.Python tests for Lab09.test_katalon_login_verification_project2" />
       </list>
     </recent_temporary>
   </component>
@@ -330,7 +348,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730570501485</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="22th oct">
+      <option name="closed" value="true" />
+      <created>1730709255002</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1730709255002</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
